@@ -1,0 +1,102 @@
+.mainContainer {
+  background-color: #223a5f;
+  color: white;
+  height: 100vh;
+  padding: 60px;
+  padding-left: 140px;
+  padding-right: 140px;
+}
+.container {
+  background-color: transparent;
+  border-color: #ffffff;
+  border-style: solid;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.scoreContainer {
+  background-color: #ffffff;
+  height: 120px;
+  width: 170px;
+  color: #223a5f;
+  border-radius: 8px;
+  text-align: center;
+  margin: 20px;
+}
+.head1 {
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  font-weight: 400;
+}
+.img1 {
+  height: 550px;
+  width: 550px;
+}
+.modal {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.ruleButton {
+  background-color: #ffffff;
+  color: #223a5f;
+  height: 40px;
+  width: 100px;
+  border-style: none;
+  border-radius: 6px;
+  margin-top: 10px;
+  font-weight: bold;
+  font-family: 'Bree Serif';
+  margin-left: 1200px;
+}
+
+.gameContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  justify-content: center;
+}
+.image1 {
+  height: 170px;
+  width: 170px;
+}
+.displayContainer {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  justify-content: center;
+  margin-left: 50px;
+}
+.div12 {
+  height: 250px;
+  width: 600px;
+  padding-left: 150px;
+}
+.playContainer {
+  height: 200px;
+  width: 500px;
+  padding-left: 150px;
+}
+.ruleButton1 {
+  background-color: #ffffff;
+  color: #223a5f;
+  height: 40px;
+  width: 150px;
+  border-style: none;
+  border-radius: 14px;
+
+  font-weight: bold;
+  font-family: 'Bree Serif';
+}
+.scoreHead {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+}
